@@ -13,8 +13,7 @@ title: Завдання
 
 ### 🧩 Вправа: Формати зображень (відповідність)
 
-<iframe src="https://learningapps.org/watch?activity=view5601707" style="border:0px;width:100%;height:400px" allowfullscreen></iframe>
-
+<iframe src="https://learningapps.org/watch?activity=5601707" style="border:0px;width:100%;height:400px" allowfullscreen></iframe>
 
 ---
 
