@@ -21,7 +21,7 @@ title: Приклади
 - Не масштабуються без втрати якості
 
 📸 **Приклад:**
-![Фотографія природи](https://upload.wikimedia.org/wikipedia/commons/0/09/Panorama_nature.jpg)
+![Фотографія природи](https://img.freepik.com/free-photo/mountains-with-cedar-forest_1398-1156.jpg?semt=ais_hybrid&w=740)
 
 ---
 
@@ -34,7 +34,7 @@ title: Приклади
 - Використовується в інструкціях, документації
 
 🖥 **Приклад:**
-![Скріншот браузера](https://upload.wikimedia.org/wikipedia/commons/8/89/Google_Chrome_screenshot.png)
+![Скріншот браузера](https://www.actualidadiphone.com/wp-content/uploads/2023/06/Widgets-macOS.jpg)
 
 ---
 
