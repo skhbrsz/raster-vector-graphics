@@ -11,16 +11,16 @@ title: Завдання
 
 ## 🧠 Інтерактивні вправи
 
-### 🎯 Вправа: Растрова та векторна графіка (Wordwall №1)
+### 🧩 Вправа: Формати зображень (відповідність)
 
-<iframe src="https://wordwall.net/uk/embed/71595051" width="800" height="600" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://learningapps.org/watch?v=view5601707" style="border:0px;width:100%;height:400px" allowfullscreen></iframe>
 
 
 ---
 
-### 🧠 Вправа: Тест — Комп’ютерна графіка (Wordwall)
+### 🧩 Вправа: Типи графіки (класифікація)
 
-<iframe src="https://wordwall.net/uk/embed/36781314" width="800" height="600" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://learningapps.org/watch?v=15579503" style="border:0px;width:100%;height:400px" allowfullscreen></iframe>
 ---
 
 
