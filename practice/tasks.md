@@ -13,14 +13,14 @@ title: Завдання
 
 ### 🧩 Вправа: Формати зображень (відповідність)
 
-<iframe src="https://learningapps.org/watch?v=view5601707" style="border:0px;width:100%;height:400px" allowfullscreen></iframe>
+<iframe src="https://learningapps.org/watch?activity=view5601707" style="border:0px;width:100%;height:400px" allowfullscreen></iframe>
 
 
 ---
 
 ### 🧩 Вправа: Типи графіки (класифікація)
 
-<iframe src="https://learningapps.org/watch?v=15579503" style="border:0px;width:100%;height:400px" allowfullscreen></iframe>
+<iframe src="https://learningapps.org/watch?activity=15579503" style="border:0px;width:100%;height:400px" allowfullscreen></iframe>
 ---
 
 
